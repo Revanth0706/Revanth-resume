@@ -13,13 +13,21 @@ img{
 }
 
 li[value="2"]{
-    color:blue; 
+    color:white; 
 }
 
 h2[draggable="true"]{
-    color:burlywood;
+    color:white;
 }
 
 p[draggable="true"]{
-    color:pink
+    color:white
+}
+
+.rev{
+    color:white;
+}
+
+.tuv{
+    color:white
 }
