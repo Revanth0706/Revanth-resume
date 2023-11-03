@@ -1,0 +1,25 @@
+img{
+    width:200px;
+    height:300px;
+
+}
+
+.text{
+    color:brown;
+}
+
+#mech{
+    color:aqua;
+}
+
+li[value="2"]{
+    color:blue; 
+}
+
+h2[draggable="true"]{
+    color:burlywood;
+}
+
+p[draggable="true"]{
+    color:pink
+}
